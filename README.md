@@ -1,6 +1,6 @@
 # Previsão de Arrecadação Tributária Municipal — Aracaju
 
-> Projeto da disciplina **Machine Learning – Prática e Projeto** · Prof. Fabio Santos
+> Projeto da disciplina **Machine Learning – Prática e Projeto** 
 > Trilha: **Aprendizado Supervisionado** · Base para o TCC
 
 Prever quanto o município de Aracaju vai arrecadar de **ISS, IPTU e ITBI** nos próximos meses, usando dados públicos do Tesouro Nacional (Siconfi), e medir o quanto essa previsão erra em comparação com a previsão oficial da prefeitura.
